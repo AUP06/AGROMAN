@@ -116,7 +116,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onFinish }) => {
           <span>Developed by <strong>Team AGROMAN</strong></span>
         </div>
         <span className="font-mono text-[11px] text-emerald-400">
-          Annamol A Abraham • Amith U Pillai • Josh Abraham Jacob • Nikhil Suresh • Arjun S • Abhijith S
+          Annamol A Abraham • Amith U Pillai • Josh Abraham Jacob • Nikhil Suresh • Arjun S • Abhijith A
         </span>
       </div>
     </div>

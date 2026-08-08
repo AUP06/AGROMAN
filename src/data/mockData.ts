@@ -1,3 +1,10 @@
+import annamolImg from '../assets/images/annamol_abraham_avatar_1786151543510.jpeg';
+import amithImg from '../assets/images/amith_pillai_avatar_1786151560620.jpeg';
+import joshImg from '../assets/images/josh_jacob_avatar_1786151574788.jpeg';
+import nikhilImg from '../assets/images/nikhil_suresh_avatar_1786151588340.jpeg';
+import arjunImg from '../assets/images/arjun_s_avatar_1786151603038.jpeg';
+import abhijithImg from '../assets/images/abhijith_a_avatar_1786151616311.jpeg';
+
 import {
   Farm,
   DroneTelemetry,
@@ -14,43 +21,43 @@ export const TEAM_MEMBERS: TeamMember[] = [
   {
     name: 'Annamol A Abraham',
     role: 'Team Lead & Agri-Data Analyst',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: annamolImg,
     skills: ['Spectral Remote Sensing', 'GIS Mapping', 'Agri Analytics', 'Team Leadership'],
   },
   {
     name: 'Amith U Pillai',
     role: 'AI/ML Engineer & Systems Architect',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: amithImg,
     skills: ['Python', 'TensorFlow', 'Computer Vision', 'System Design'],
   },
   {
     name: 'Josh Abraham Jacob',
     role: 'Agri-Automation & Edge Computing Engineer',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: joshImg,
     skills: ['Edge AI', 'IoT Architecture', 'Robotics', 'Embedded Firmware'],
   },
   {
     name: 'Nikhil Suresh',
     role: 'IoT Hardware & Robotics Specialist',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: nikhilImg,
     skills: ['ESP32', 'MQTT Protocols', 'Pixhawk Flight Controllers', 'Sensors'],
   },
   {
     name: 'Arjun S',
     role: 'Full Stack & Cloud Developer',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: arjunImg,
     skills: ['React', 'TypeScript', 'Node.js', 'Firebase Cloud Engine'],
   },
   {
-    name: 'Abhijith S',
+    name: 'Abhijith A',
     role: 'Embedded Systems & Drone Engineer',
-    college: 'Smart India Hackathon 2026 Finalist',
-    avatar: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200',
+    college: 'AGROMAN Core Team',
+    avatar: abhijithImg,
     skills: ['DJI SDK', 'Autonomous Navigation', 'Power Electronics'],
   },
 ];

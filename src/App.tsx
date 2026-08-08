@@ -226,7 +226,7 @@ export default function App() {
           Developed by <strong>Team AGROMAN</strong> — Smart India Hackathon 2026
         </p>
         <p className="text-[11px] text-gray-500">
-          Annamol A Abraham • Amith U Pillai • Josh Abraham Jacob • Nikhil Suresh • Arjun S • Abhijith S
+          Annamol A Abraham • Amith U Pillai • Josh Abraham Jacob • Nikhil Suresh • Arjun S • Abhijith A
         </p>
       </footer>
 

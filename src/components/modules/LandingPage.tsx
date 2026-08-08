@@ -229,7 +229,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({
               <h3 className="text-xl font-extrabold text-slate-900">Team AGROMAN</h3>
             </div>
             <p className="text-xs text-slate-500 mt-0.5">
-              Smart India Hackathon 2026 Finalist Team
+              Precision Agriculture Innovation Team
             </p>
           </div>
           <button
