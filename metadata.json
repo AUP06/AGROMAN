@@ -1,0 +1,6 @@
+{
+  "name": "AGROMAN",
+  "description": "AI-Powered Smart Agricultural Monitoring & Decision Support System for Smart India Hackathon 2026",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
